@@ -1,1 +1,9 @@
+#Folders
 Content/
+.vscode/
+Binaries/
+Intermediate/Build/
+Saved/
+
+#Ingore files
+*.bin
