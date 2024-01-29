@@ -74,9 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Assets
-Content/AssetPacks/*
-Content/Sandbox_BuiltData.uasset
-Content/Sandbox.umap
+Content/*
 
 # VS
 .vscode/*
